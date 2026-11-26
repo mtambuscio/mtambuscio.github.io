@@ -1,0 +1,64 @@
+---
+title: "Talks & Presentations"
+subtitle: "Conference presentations, invited talks and selected posters"
+page-layout: full
+toc: false
+---
+
+::: {.page-intro}
+<div class="section-label">TALKS &amp; PRESENTATIONS</div>
+
+# Talks & Presentations
+
+::: {.site-section .talks-page}
+
+## Upcoming
+
+<div class="talk-entry"><div class="talk-year">2027</div><div><strong>From Sources to Networks: AI-assisted Data Creation and Sustainable Modelling in Managing Maximilian.</strong><div class="talk-meta">Invited talk · Saxon Academy of Sciences, Leipzig, Germany · Online</div></div></div>
+
+## 2026
+
+<div class="talk-entry"><div class="talk-year">2026</div><div><strong>From Prosopography to Networks: Modelling Choices in Historical Knowledge Graphs.</strong><div class="talk-meta">Complex Networks · Granada, Spain</div></div></div>
+<div class="talk-entry"><div class="talk-year">2026</div><div><strong>Towards Computational Prosopography: From Semantic Modelling to Historical Networks.</strong><div class="talk-meta">Complex R.O.M.E. · Online</div></div></div>
+<div class="talk-entry"><div class="talk-year">2026</div><div><strong>Paths into — and out of — the Modelling Rabbit Hole in Digital Historical Research.</strong><div class="talk-meta">Digital History Tagung · Salzburg, Austria</div></div></div>
+<div class="talk-entry"><div class="talk-year">2026</div><div><strong>Filtering the Emperor: Communication Networks around Maximilian I (1459–1519).</strong><div class="talk-meta">Historical Networks Research (HNR) · Turin, Italy</div></div></div>
+<div class="talk-entry"><div class="talk-year">2026</div><div><strong>Narrated Networks: Social Network Analysis of the Memoirs of Countess Luise Charlotte von Schwerin (1684–1732).</strong><div class="talk-meta">Historical Networks Research (HNR) · Turin, Italy</div></div></div>
+<div class="talk-entry"><div class="talk-year">2026</div><div><strong>From Spaghetti Monster to Research-Ready Networks: APIS and Factoid-Based Digital Prosopography for Managing Maximilian.</strong><div class="talk-meta">Joining the Dots Workshop · Vienna, Austria</div></div></div>
+
+## 2025
+
+<div class="talk-entry"><div class="talk-year">2025</div><div><strong>Bridging Semantics and Structure: a Typed Prosopographical Network of Maximilian I’s Court.</strong><div class="talk-meta">Computational Humanities Research (CHR) · Luxembourg</div></div></div>
+<div class="talk-entry"><div class="talk-year">2025</div><div><strong>Network Perspectives of a Medieval Court.</strong><div class="talk-meta">NetSci · Maastricht, Netherlands</div></div></div>
+<div class="talk-entry"><div class="talk-year">2025</div><div><strong>Digital Humanities: Beyond the Digitizing of Content.</strong><div class="talk-meta">Invited talk · University of Eastern Piedmont, Alessandria, Italy</div></div></div>
+<div class="talk-entry"><div class="talk-year">2025</div><div><strong>Biographies to Connections: a Prosopographical Analysis of the Court of Habsburg Emperor Maximilian I (1459–1519).</strong><div class="talk-meta">Graphs and Networks in the Humanities · Mendrisio, Switzerland</div></div></div>
+
+## 2024
+
+<div class="talk-entry"><div class="talk-year">2024</div><div><strong>Transmitting Musical Knowledge in Eighteenth Century European Violin Playing.</strong><div class="talk-meta">Annual conference of the Italian Society of Musicology · Florence, Italy</div></div></div>
+<div class="talk-entry"><div class="talk-year">2024</div><div><strong>Emerging Maximilian: Temporal Co-occurrences Network Analysis of People Mentioned in Regesta Imperii XIII.</strong><div class="talk-meta">HNR · Lausanne, Switzerland</div></div></div>
+<div class="talk-entry"><div class="talk-year">2024</div><div><strong>Temporal Networks and Prosopography.</strong><div class="talk-meta">International Medieval Congress (IMC) · Online, Leeds, UK</div></div></div>
+<div class="talk-entry"><div class="talk-year">2024</div><div><strong>Evolving Topology of Historical Temporal Networks.</strong><div class="talk-meta">Sunbelt · Online, Edinburgh, UK</div></div></div>
+
+## 2023
+
+<div class="talk-entry"><div class="talk-year">2023</div><div><strong>Prosopography of Maximilian I (1459–1519): Dealing with Complexity in Historical Archives.</strong><div class="talk-meta">Complex Networks · Menton, France</div></div></div>
+<div class="talk-entry"><div class="talk-year">2023</div><div><strong>Network Science in Digital History and Prosopography.</strong><div class="talk-meta">DigitalAcademy · Online, Bielefeld, Germany</div></div></div>
+
+## Earlier talks
+
+<div class="talk-entry"><div class="talk-year">2021</div><div><strong>Geolocation and Named Entity Recognition in Ancient Texts: A Case Study about Ghewond’s Armenian History.</strong><div class="talk-meta">CHR · Online, Berlin, Germany</div></div></div>
+<div class="talk-entry"><div class="talk-year">2021</div><div><strong>Information Spreading Processes and Polarisation.</strong><div class="talk-meta">Invited talk · Digital Europe Economic Seminars, University of Warsaw, Poland</div></div></div>
+<div class="talk-entry"><div class="talk-year">2021</div><div><strong>Diachronic Analysis of Co-occurrences Networks: a Case Study on Staribacher Diaries and Austrian Politics.</strong><div class="talk-meta">DH4 · Online, Berlin, Germany</div></div></div>
+<div class="talk-entry"><div class="talk-year">2017</div><div><strong>Misinformation, Fact-checking and Gullible Communities.</strong><div class="talk-meta">International Lipari School: Complex Networks, Lipari, Italy; invited talk, Center for Network Science, CEU, Budapest, Hungary</div></div></div>
+<div class="talk-entry"><div class="talk-year">2016</div><div><strong>Network Segregation and the Spread of Misinformation.</strong><div class="talk-meta">NetSci · Seoul, South Korea</div></div></div>
+<div class="talk-entry"><div class="talk-year">2015</div><div><strong>Fact-checking Effect on Viral Hoaxes: a Model of Misinformation Spread in Social Networks.</strong><div class="talk-meta">IC2S2 · Helsinki; NetSci · Zaragoza; WWW/RDSM · Florence</div></div></div>
+
+## Selected posters
+
+<div class="talk-entry"><div class="talk-year">2026</div><div><strong>Unlocking the Schematismus: Enhancing the Accessibility of Cultural Heritage Data.</strong><div class="talk-meta">Digital History Tagung · Salzburg, Austria · Poster</div></div></div>
+<div class="talk-entry"><div class="talk-year">2026</div><div><strong>From Violin Lessons to Linked Open Data: Reconstructing Tartini’s Scuola delle Nazioni through Digital Prosopography and Digital Editions.</strong><div class="talk-meta">AIUCD · Cagliari, Italy · Poster</div></div></div>
+<div class="talk-entry"><div class="talk-year">2023</div><div><strong>Diachronic Evolution of Prosopographical Networks.</strong><div class="talk-meta">GraphHNR · Mainz, Germany · Poster</div></div></div>
+
+<p class="talks-note">This selection is based on the supplied academic CV. Additional presentations, slides and poster PDFs can be added incrementally.</p>
+
+:::

@@ -1,0 +1,116 @@
+---
+title: "Marcella Tambuscio"
+page-layout: full
+toc: false
+---
+
+::: {.hero-section}
+::: {.hero-inner}
+
+<div class="eyebrow">NETWORK SCIENCE · COMPUTATIONAL RESEARCH</div>
+
+# Marcella Tambuscio {.hero-name}
+
+<div class="hero-subtitle">Computational Humanities & Social Science</div>
+
+<div class="hero-actions"><a class="btn-primary-custom" href="research.html">Explore my research <span aria-hidden="true">↗</span></a><a class="btn-outline-custom" href="publications.html">View publications</a></div>
+
+:::
+:::
+
+::: {.site-section .intro-section}
+<div class="section-label">ABOUT ME</div>
+
+## A computational perspective {.section-heading}
+
+<img src="assets/profile.jpg"
+     alt="Marcella Tambuscio"
+     class="about-photo">
+
+I am a postdoctoral researcher at the University of Graz, with a background in mathematics and computer science. My research brings together network science, computational social science, and computational approaches to the humanities.
+
+I am interested in how relationships shape social and cultural systems, and in how computational methods can help us investigate them. My work has ranged from modelling information diffusion, misinformation, and polarization in contemporary networks to reconstructing social and institutional relationships from historical sources.
+
+My current research focuses on computational prosopography, historical network analysis, and the methodological challenges of representing and interpreting complex humanities data.
+
+[Learn more about my research →](research.qmd){.text-link}
+:::
+
+::: {.site-section .research-section}
+<div class="section-label">RESEARCH AREAS</div>
+
+<div class="research-grid">
+<article class="research-card">
+<div class="research-glyph research-glyph--history" aria-hidden="true">⌘</div>
+<div class="research-card-copy">
+<h3>Computational Humanities</h3>
+<p>Computational prosopography, historical networks, knowledge representation, and data-driven approaches to humanities research.</p>
+<a class="text-link" href="research.html#computational-humanities">Explore this area <span aria-hidden="true">↗</span></a>
+</div>
+</article>
+<article class="research-card">
+<div class="research-glyph" aria-hidden="true">✳</div>
+<div class="research-card-copy">
+<h3>Computational Social Science</h3>
+<p>Information diffusion, misinformation, polarization, collective behaviour, and computational models of social systems.</p>
+<a class="text-link" href="research.html#computational-social-science">Explore this area <span aria-hidden="true">↗</span></a>
+</div>
+</article>
+</div>
+
+:::
+
+<!--
+::: {.site-section .projects-section}
+<div class="section-heading-row"><div class="section-label">CURRENT &amp; RECENT PROJECTS</div><a class="text-link" href="projects/index.html">All projects →</a></div>
+
+<div class="projects-grid">
+  <article class="project-card">
+    <a href="projects/managing-maximilian.html" class="project-image-link" aria-label="Managing Maximilian project"><img src="assets/network-maximilian.svg" alt="Decorative abstract network for Managing Maximilian"></a>
+    <h3>Managing Maximilian</h3>
+    <p>Reconstructing social relationships and communication networks around Maximilian I.</p>
+    <a class="text-link" href="projects/managing-maximilian.html">Explore project →</a>
+  </article>
+  <article class="project-card">
+    <a href="projects/schematismus.html" class="project-image-link" aria-label="Unlocking the Schematismus project"><img src="assets/network-schematismus.svg" alt="Decorative abstract network for Schematismus"></a>
+    <h3>Unlocking the Schematismus</h3>
+    <p>Mapping Habsburg society and administrative structures through historical data.</p>
+    <a class="text-link" href="projects/schematismus.html">Explore project →</a>
+  </article>
+  <article class="project-card">
+    <a href="projects/tartinians.html" class="project-image-link" aria-label="Tartinians in Europe project"><img src="assets/network-tartini.svg" alt="Decorative abstract network for Tartinians in Europe"></a>
+    <h3>Tartinians in Europe</h3>
+    <p>Exploring musical networks around Tartini’s School of Nations.</p>
+    <a class="text-link" href="projects/tartinians.html">Explore project →</a>
+  </article>
+</div>
+
+<p class="image-note">Network images are abstract illustrations; they do not represent project datasets.</p>
+:::
+
+::: {.site-section .publications-preview}
+<div class="section-heading-row"><div class="section-label">SELECTED PUBLICATIONS</div><a class="text-link" href="publications.html">All publications →</a></div>
+
+<div class="publication-item"><span class="pub-year">2026</span><div><strong>From Prosopography to Networks: Modelling Choices in Historical Knowledge Graphs.</strong><br><span class="pub-meta">M. Tambuscio, S. Sagadin, R. Hadden, G. Vogeler · Accepted October 2026</span></div></div>
+<div class="publication-item"><span class="pub-year">2025</span><div><strong>Bridging Semantics and Structure: a Typed Prosopographical Network of Maximilian I’s Court.</strong><br><span class="pub-meta">M. Tambuscio, G. Vogeler · Anthology of Computers and the Humanities, 3, 131–141</span></div></div>
+<div class="publication-item"><span class="pub-year">2023</span><div><strong>“#schleichdiduoaschloch” Terror, Collective Memory, and Social Media.</strong><br><span class="pub-meta">M. Tambuscio, M. Tschiggerl · Social Media + Society, 9(3)</span></div></div>
+:::
+-->
+
+::: {.site-section .academic-community}
+<div class="section-label">ACADEMIC COMMUNITY</div>
+
+I serve as **Vice Coordinator of the Historical Networks Research (HNR) Conferences and Workshops board**, alongside programme committee and scholarly event organisation activities.
+
+[Academic service and CV →](cv.qmd){.text-link}
+:::
+
+::: {.site-section .closing-note}
+<div class="section-label">GET IN TOUCH</div>
+
+## Interested in collaboration? {.section-heading}
+
+I welcome conversations across network science, computational social science, and digital humanities.
+
+[Email me →](mailto:marcella.tambuscio@uni-graz.at){.text-link}
+:::

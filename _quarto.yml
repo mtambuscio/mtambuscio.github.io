@@ -1,0 +1,60 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - index.qmd
+    - research.qmd
+    - publications.qmd
+    - talks.qmd
+    - cv.qmd
+  resources:
+    - assets/**
+website:
+  title: Marcella Tambuscio
+  site-url: https://mtambuscio.github.io
+  description: Academic website of Marcella Tambuscio — Network Science, Computational Social Science,
+    and Digital Humanities.
+  favicon: assets/favicon.svg
+  search: true
+  navbar:
+    title: Marcella Tambuscio
+    background: light
+    collapse-below: lg
+    left:
+    - href: index.qmd
+      text: Home
+    - href: research.qmd
+      text: Research
+    #- href: projects/index.qmd
+    #  text: Projects
+    - href: publications.qmd
+      text: Publications
+    - href: talks.qmd
+      text: Talks
+    - href: cv.qmd
+      text: CV
+    right:
+    - icon: envelope
+      href: mailto:marcella.tambuscio@uni-graz.at
+      aria-label: Email
+    logo: assets/logo-moon-mt.svg
+    logo-alt: MT monogram formed by a network crescent
+  page-footer:
+    border: true
+    left: © Marcella Tambuscio
+    right:
+    - text: ORCID
+      href: https://orcid.org/0000-0003-2097-1333
+  back-to-top-navigation: true
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    page-layout: full
+    smooth-scroll: true
+    link-external-newwindow: true
+    mainfont: Source Sans 3
+    fontsize: 1rem
+execute:
+  freeze: auto

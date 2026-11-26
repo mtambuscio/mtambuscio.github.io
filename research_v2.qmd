@@ -1,0 +1,112 @@
+---
+title: "Research"
+page-layout: full
+toc: false
+---
+
+::: {.page-intro}
+<div class="section-label">RESEARCH</div>
+
+# Relational Worlds
+
+::: {.columns}
+
+::: {.column width="58%"}
+
+My research explores **how relationships shape social and cultural systems across past and present contexts**, and how computational approaches can help us understand their structures and dynamics.
+
+I work with network science, computational modelling and data-driven methods, applying them to very different settings: from the spread of misinformation and formation of collective memories in online social networks to the court of Emperor Maximilian I and the communities of the Habsburg Empire, reconstructed from archival and historical sources.
+
+My research spans two interconnected areas (Computational Humanities and Computational Social Science) and is driven by a set of common questions:
+
+How do we reconstruct relational structures from data? How do modelling choices shape what we see? Decisions on entities, relations, time and semantics influence the networks and the interpretations we derive from them.
+
+
+How do information, influence and power circulate through relationships, and how do these structures change over time?
+
+::: {.research-quote}
+“Nothing is naturally a network;<br>
+rather, networks are an abstraction<br>
+into which we squeeze the world.”
+
+— Ahnert et al., [*The Network Turn*](https://doi.org/10.1017/9781108866804) (2020), p. 43.
+
+:::
+
+:::
+
+::: {.column width="42%"}
+
+<img src="assets/ai-relational-worlds.webp"
+     alt="Illustration of historical and cultural connections"
+     class="research-illustration">
+
+:::
+
+:::
+
+
+::: {.site-section .research-detail}
+
+::: {.research-areas}
+
+::: {.research-area humanities}
+
+## Computational Humanities
+
+My current research focuses on the computational study of historical and cultural sources, with particular attention to the **reconstruction and analysis of relational structures**.
+
+I am interested not only in what network analysis can reveal about past societies, but also in **how historical information is transformed into computational representations**, and how modelling decisions influence the structures and interpretations that emerge.
+
+This includes computational prosopography, historical network analysis, semantic knowledge representation, and the integration of heterogeneous and incomplete sources. These methodological questions are relevant to humanities research beyond history.
+
+Through projects such as *Managing Maximilian*, *Unlocking the Schematismus*, and *Tartinians in Europe*, I explore how computational approaches can contribute to the study of social relationships, institutional structures, and historical communities.
+
+**Research topics:** Computational Prosopography · Historical Networks · Knowledge Graphs · Semantic Modelling · Digital Humanities
+
+### Selected projects
+
+- [Managing Maximilian](projects/managing-maximilian.qmd) — modelling prosopographical data and relationships at the court of Maximilian I.
+- [Unlocking the Schematismus](projects/schematismus.qmd) — investigating administrative and social structures in the Habsburg context.
+- [Tartinians in Europe](projects/tartinians.qmd) — reconstructing relationships in eighteenth-century European musical culture.
+
+### Selected publications
+
+- Tambuscio & Vogeler (2025). *Bridging Semantics and Structure: A Typed Prosopographical Network of Maximilian I’s Court.*
+- Tambuscio, Sagadin, Hadden & Vogeler (accepted 2026). *From Prosopography to Networks: Modelling Choices in Historical Knowledge Graphs.*
+- Tambuscio & Andrews (2021). *Geolocation and Named Entity Recognition in Ancient Texts: A Case Study about Ghewond’s Armenian History.*
+
+[All publications →](publications.qmd){.text-link}
+
+---
+:::
+
+::: {.research-area social-science}
+
+## Computational Social Science
+
+My research in computational social science investigates **the structure and dynamics of complex social systems**, particularly the relationship between network topology and collective behaviour.
+
+A major part of my earlier work examined information diffusion, misinformation, fact-checking, and polarization in online social networks, combining empirical network analysis with computational and agent-based models.
+
+I have also investigated social segregation, political communication, and structural inequalities in large-scale interaction networks.
+
+Across these topics, I am especially interested in how patterns of connectivity influence individual and collective dynamics, and how computational models can help explain the emergence of complex social phenomena.
+
+**Research topics:** Information Diffusion · Misinformation · Polarization · Complex Networks · Computational Modelling · Social Dynamics
+
+### Selected publications
+
+- Tambuscio, Oliveira, Ciampaglia & Ruffo (2018). *Network Segregation in a Model of Misinformation and Fact Checking.*
+- Tambuscio & Ruffo (2019). *Urban Legends Spreading in a Segregated Society.*
+- Lai, Tambuscio, Patti, Ruffo & Rosso (2019). *Stance Polarity in Political Debates: A Diachronic Perspective of Network Homophily and Conversations on Twitter.*
+- Semeraro, Tambuscio, Ronchiadin & Ruffo (2020). *Structural Inequalities Emerging from a Large Wire Transfers Network.*
+- Tambuscio & Tschiggerl (2023). *“#schleichdiduoaschloch” Terror, Collective Memory, and Social Media.*
+
+[All publications →](publications.qmd){.text-link}
+
+:::
+
+:::
+
+:::

@@ -1,0 +1,60 @@
+---
+title: "Research"
+subtitle: "Computational Humanities and Computational Social Science"
+page-layout: full
+toc: false
+---
+
+::: {.page-intro}
+<div class="section-label">RESEARCH</div>
+
+# Relational Worlds
+
+I study **connections, structures and dynamics** across the humanities and social sciences. My research combines computational and network-based approaches to investigate how information spreads, how communities are structured, and how social relationships can be reconstructed from complex and incomplete sources.
+
+**Network science** provides a methodological thread connecting two research areas: **Computational Humanities**, my main current focus, and **Computational Social Science**.
+:::
+
+::: {.site-section .research-detail}
+
+## Computational Humanities
+
+My current work applies computational approaches to historical and other humanities sources, with a particular focus on **computational prosopography** and historical network analysis. This involves not only analysing networks, but also examining how evidence, roles, events and uncertain or incomplete records can be modelled before computational analysis becomes meaningful.
+
+A central question is how different representations of cultural and historical evidence shape the interpretations we can draw from them. The methodological perspective is relevant beyond history, including future collaborations with other humanities disciplines.
+
+**Topics:** computational prosopography · historical networks · knowledge graphs · semantic modelling · digital humanities · institutional relationships.
+
+### Current and recent projects
+
+- [Managing Maximilian](projects/managing-maximilian.qmd) — prosopographical and historical networks around Maximilian I.
+- [Unlocking the Schematismus](projects/schematismus.qmd) — Habsburg administrative and social structures.
+- [Tartinians in Europe](projects/tartinians.qmd) — prosopography and networks in European music history.
+
+### Related publications
+
+- Tambuscio & Andrews (2021). *Geolocation and Named Entity Recognition in Ancient Texts: A Case Study about Ghewond’s Armenian History.*
+- Tambuscio & Vogeler (2025). *Bridging Semantics and Structure: a Typed Prosopographical Network of Maximilian I’s Court.*
+- Tambuscio, Sagadin, Hadden & Vogeler (accepted October 2026). *From Prosopography to Networks: Modelling Choices in Historical Knowledge Graphs.*
+
+[Full publication list →](publications.qmd){.text-link}
+
+---
+
+## Computational Social Science
+
+My research in computational social science investigates the structure and dynamics of networks in contemporary social systems. I have studied misinformation and fact-checking processes, information diffusion, homophily and polarization, as well as network inequalities in financial transactions.
+
+**Topics:** information diffusion · misinformation · polarization · social interactions · network modelling and simulation.
+
+### Related publications
+
+- Tambuscio, Oliveira, Ciampaglia & Ruffo (2018). *Network segregation in a model of misinformation and fact checking.*
+- Tambuscio & Ruffo (2019). *Urban Legends Spreading in a Segregated Society.*
+- Lai, Tambuscio, Patti, Ruffo & Rosso (2019). *Stance Polarity in Political Debates: a Diachronic Perspective of Network Homophily and Conversations on Twitter.*
+- Semeraro, Tambuscio, Ronchiadin & Ruffo (2020). *Structural inequalities emerging from a large wire transfers network.*
+- Tambuscio & Tschiggerl (2023). *“#schleichdiduoaschloch” Terror, Collective Memory, and Social Media.*
+
+[Full publication list →](publications.qmd){.text-link}
+
+:::

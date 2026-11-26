@@ -1,0 +1,65 @@
+---
+title: "Publications"
+subtitle: "Journal articles, proceedings, chapters and other publications"
+page-layout: full
+toc: false
+---
+
+::: {.page-intro}
+<div class="section-label">PUBLICATIONS</div>
+
+# Publications
+
+::: {.site-section .bibliography-page}
+
+## Accepted and forthcoming
+
+**2026 —** Tambuscio, M., Sagadin, S., Hadden, R., & Vogeler, G. **From Prosopography to Networks: Modelling Choices in Historical Knowledge Graphs.** *Accepted in October 2026 at Complex Networks 2026; final publication details pending.*
+
+**2026 —** Sagadin, S., Hadden, R., Tambuscio, M., & Vogeler, G. **Paths into — and out of — the modelling rabbit hole in digital historical research.** *Forthcoming in the Proceedings of Digital History 2026.*
+
+**2026 —** Korol, D., Galka, S., Tambuscio, M., Hadden, R., & Vogeler, G. **Uncertainty as Data: A Shared Model for Editions and Research Data in GAMS.** *Accepted in October 2026 for DHd 2027; final publication details pending.*
+
+## Peer-reviewed journals and conference proceedings
+
+**2025 —** Tambuscio, M., & Vogeler, G. [**Bridging Semantics and Structure: a Typed Prosopographical Network of Maximilian I’s Court.**](https://doi.org/10.63744/eWebTidsVFzV) *Anthology of Computers and the Humanities*, 3, 131–141.
+
+**2023 —** Tambuscio, M., & Tschiggerl, M. [**“#schleichdiduoaschloch” Terror, Collective Memory, and Social Media.**](https://doi.org/10.1177/20563051231186365) *Social Media + Society*, 9(3).
+
+**2021 —** Tambuscio, M., & Andrews, T. L. [**Geolocation and Named Entity Recognition in Ancient Texts: A Case Study about Ghewond’s Armenian History.**](https://ceur-ws.org/Vol-2989/short_paper28.pdf) *Proceedings of Computational Humanities Research (CHR 2021)*, 136–148.
+
+**2020 —** Sulis, E., & Tambuscio, M. [**Simulation of misinformation spreading processes in social networks: an application with NetLogo.**](https://doi.org/10.1109/DSAA49011.2020.00086) *2020 IEEE 7th International Conference on Data Science and Advanced Analytics (DSAA)*, 614–618.
+
+**2020 —** Semeraro, A., Tambuscio, M., Ronchiadin, S., & Ruffo, G. [**Structural inequalities emerging from a large wire transfers network.**](https://doi.org/10.1007/s41109-020-00314-x) *Applied Network Science*, 5, article 76.
+
+**2019 —** Tambuscio, M., & Ruffo, G. [**Fact-checking strategies to limit urban legends spreading in a segregated society.**](https://doi.org/10.1007/s41109-019-0233-1) *Applied Network Science*, 4, article 116.
+
+**2019 —** Lai, M., Tambuscio, M., Patti, V., Ruffo, G., & Rosso, P. [**Stance Polarity in Political Debates: a Diachronic Perspective of Network Homophily and Conversations on Twitter.**](https://doi.org/10.1016/j.datak.2019.101738) *Data & Knowledge Engineering*, 124, 101738.
+
+**2018 —** Tambuscio, M., Oliveira, D. F. M., Ciampaglia, G. L., & Ruffo, G. [**Network segregation in a model of misinformation and fact-checking.**](https://doi.org/10.1007/s42001-018-0018-9) *Journal of Computational Social Science*, 1(2), 261–275.
+
+**2017 —** Lai, M., Tambuscio, M., Patti, V., Ruffo, G., & Rosso, P. [**Extracting Graph Topological Information and Users’ Opinion.**](https://doi.org/10.1007/978-3-319-65813-1_10) *CLEF 2017 proceedings*, Springer, 112–118.
+
+**2015 —** Tambuscio, M., Ruffo, G., Flammini, A., & Menczer, F. [**Fact-checking effect on viral hoaxes: A model of misinformation spread in social networks.**](https://doi.org/10.1145/2740908.2742572) *Proceedings of the 24th International Conference on World Wide Web (WWW ’15 Companion)*, 977–982.
+
+## Book chapters
+
+**2022 —** Ruffo, G. F., & Tambuscio, M. **Un approccio computazionale per capire le dinamiche della competizione tra bufale e verità.** In *Bufale, fake news, rumors e post-verità: discipline a confronto* (A. M. Orecchia & D. G. Preatoni, eds.). Mimesis.
+
+## Other publications and outreach
+
+**2026 —** Tambuscio, M., Hadden, R., Sagadin, S., & Vogeler, G. **Forging Power: The Importance of Social Connections.** In [*L’Homme Armé: Bilder vom gerüsteten Mann zur Zeit Maximilian I / Images of Men in Armour at the Time of Maximilian I*](https://www.bahoebooks.net/buch/lhomme-arme/). Bahoe Books, Vienna, 163–175. ISBN 978-3-903478-60-2.
+
+<!--
+**2026 —** Galka, S., Tambuscio, M., Wissman, R., & Vogeler, G. **Modeling Networks of Musical Knowledge: A Prosopographical Data Model and First Analyses and Visualizations of Tartini’s “Scuola delle Nazioni”.**
+
+Uncomment once a publication venue or public manuscript is available; currently documented as a conference contribution.
+-->
+
+**2020 —** Ruffo, G. F., & Tambuscio, M. [**Capire la diffusione della disinformazione e come contrastarla.**](https://www.federalismi.it/nv14/articolo-documento.cfm?Artid=42113) *Federalismi.it*, 11, 73–84.
+
+## Researcher identifiers
+
+[ORCID 0000-0003-2097-1333](https://orcid.org/0000-0003-2097-1333){.text-link}
+
+:::

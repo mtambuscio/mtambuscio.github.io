@@ -1,0 +1,91 @@
+---
+title: "CV"
+subtitle: "Academic experience, education and service"
+page-layout: full
+toc: false
+---
+
+::: {.page-intro}
+<div class="section-label">ACADEMIC CV</div>
+
+# Marcella Tambuscio
+
+**Postdoctoral Researcher**, Department of Digital Humanities, University of Graz, Austria.
+
+[Email](mailto:marcella.tambuscio@uni-graz.at){.text-link} · [ORCID](https://orcid.org/0000-0003-2097-1333){.text-link}
+
+:::
+
+::: {.site-section .cv-page}
+
+## Research profiles
+
+[ORCID](https://orcid.org/0000-0003-2097-1333) · [GitHub](https://github.com/mtambuscio)
+
+<!-- Once confirmed, add the precise Google Scholar and LinkedIn profile URLs here. -->
+
+## Academic Experience
+
+| Period | Position |
+|:--|:--|
+| 2023–present | Postdoctoral Researcher, Department of Digital Humanities, University of Graz, Austria |
+| 2019–2023 | Postdoctoral Researcher, Austrian Centre for Digital Humanities, Austrian Academy of Sciences, Vienna |
+| 2017–2019 | Postdoctoral Researcher, Department of Computer Science, University of Turin, Italy |
+
+## Education
+
+| Year | Degree |
+|:--|:--|
+| 2017 | PhD in Computer Science, University of Turin |
+| 2013 | MSc in Computer Science, University of Pisa |
+| 2009 | BSc in Mathematics, University of Pisa |
+
+## Funded research
+
+**2025–2028 — Tartinians in Europe: The School of Nations and its Networks.** Principal Investigator (successor to initial PI). FWF-funded project. Total project award: €640,000. [DOI](https://doi.org/10.55776/PIN5035023).
+
+**2025–2030 — Unlocking the Schematismus.** Consortium member. FWF-funded project. Total consortium award: €1.5 million. [DOI](https://doi.org/10.55776/FG3100).
+
+
+## Teaching and mentoring
+
+- **2025–2026:** Information Modeling, University of Graz, MA in Digital Humanities (6 ECTS).
+- **2025–2027:** Co-supervision of a PhD thesis in Translation Studies, University of Tartu.
+- **2025:** Managing Maximilian lecture-series seminar, University of Vienna, MA in History.
+- **2025:** Teacher at Scriptorium Brunense Summer School, Brno.
+- **2022:** Social media data: extraction and analysis, University of Vienna, MA in Digital Humanities (5 ECTS).
+- **2020:** Teacher at ACDH Digital Prosopography Summer School, Vienna
+- **2020:** Teacher at Austrian Academy of Sciences AI Winter School, Reichenau.
+- **2014–2017:** Lecturer, Complex Networks, University of Turin, MSc in Computer Science.
+
+
+## Academic service
+
+- **Vice Coordinator, Historical Networks Research (HNR) Conferences and Workshops board.**
+- Programme committee service for CHR, HNR, NetSci, NetSciX, CompleNet and other conferences.
+- Scientific event organization, including a NetSci and HNR satellite events.
+- Reviewing for journals including *Applied Network Science*, *Digital Scholarship in the Humanities*, *Humanities & Social Sciences Communications* and others.
+
+
+## Press Coverage
+
+**2024 — Der Standard.**
+[Der Kaiser war ein Erbsenzähler](https://www.derstandard.at/story/3000000220892/der-kaiser-war-ein-erbsenzaehler).
+
+**2023 — ORF Science.**
+[Im Backoffice von Maximilian I.](https://science.orf.at/forscherinnen/stories/3221252/).
+
+**2023 — ORF Science.**
+[Schleichdiduoaschloch prägte Erinnerung](https://science.orf.at/stories/3221909/).
+
+**2023 — Der Standard.**
+[Wie Wien nach dem Terroranschlag 2020 zusammenrückte](https://www.derstandard.at/story/3000000192991/wie-wien-nach-dem-terroranschlag-2020-zusammenrueckte).
+
+
+
+## Languages
+
+**Italian** — Native · **English** — Proficient · **Spanish** — Proficient · **French** — Intermediate · **German** — Basic
+
+
+:::

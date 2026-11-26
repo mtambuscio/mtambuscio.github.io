@@ -1,0 +1,126 @@
+---
+title: "Research"
+page-layout: full
+toc: false
+---
+
+::: {.page-intro}
+<div class="section-label">RESEARCH</div>
+
+# Relational Worlds
+
+::: {.columns}
+
+::: {.column width="58%"}
+
+My research explores **how relationships shape social and cultural systems across past and present contexts**, 
+and how computational approaches can help us understand their structures and dynamics.
+
+I work with network science, computational modelling and data-driven methods, 
+applying them to very different settings: from the spread of misinformation 
+and formation of collective memories in online social networks 
+to medieval courts and bureacratic structures reconstructed from archival and historical sources.
+
+My research spans two interconnected areas (Computational Humanities and Computational Social Science) and is driven by a set of common questions: 
+how do we reconstruct relational structures from incomplete and uncertain historical data? 
+how do modelling choices as decisions on entities and relations influence the networks and the interpretations we derive from them?
+how do information, influence and power circulate through relationships, 
+how do these structures change over time?
+
+::: {.research-quote}
+“Nothing is naturally a network;<br>
+rather, networks are an abstraction<br>
+into which we squeeze the world.”
+
+— Ahnert et al., [*The Network Turn*](https://doi.org/10.1017/9781108866804) (2020), p. 43.
+
+:::
+
+:::
+
+::: {.column width="42%"}
+
+<img src="assets/ersilia-relational-worlds.webp"
+     alt="Illustration of historical and cultural connections"
+     class="research-illustration">
+
+:::
+
+:::
+
+:::
+
+::: {.site-section .research-detail}
+
+
+## Computational Humanities
+
+My research in Computational Humanities explores **how historical and cultural evidence can be represented, connected, and analysed computationally**, with particular attention to the reconstruction of social relationships and institutional structures.
+
+A central direction of my work is the development of **computational prosopography as a methodological approach** that brings together historical source criticism, semantic data modelling, and network science. I investigate how heterogeneous, incomplete and contradictory sources can be transformed into structured data, and how decisions about entities, relationships, temporality, uncertainty, and provenance shape the resulting representations and their interpretation.
+
+Through projects such as *Managing Maximilian*, *Unlocking the Schematismus*, and *Tartinians in Europe*, I am exploring **network science methods not only as means for analysing historical networks, but also as an exploratory and diagnostic tool throughout data construction**. Network-based approaches can help inspect emerging datasets, identify gaps, archival bias and inconsistencies, compare alternative modelling choices, and support processes such as entity reconciliation. This creates an iterative dialogue between data creation, modelling, and analysis, where each stage informs and refines the others.
+
+I also serve on the Board of the [Historical Network Research (HNR) community](https://historicalnetworkresearch.org/about/) as **Vice-Coordinator for Events**, contributing to interdisciplinary exchange and the organisation of scientific events in historical network research.
+
+**Research topics:** Computational Prosopography · Historical Network Research  · Semantic Modelling · 
+
+<!--
+
+**Selected Publications**
+
+- Tambuscio, M., Sagadin, S., Hadden, R. & Vogeler, G. (2026).
+  *From Prosopography to Networks: Modelling Choices in Historical Knowledge Graphs*.
+  Accepted for publication.
+
+- Tambuscio, M. & Vogeler, G. (2025).
+  [*Bridging Semantics and Structure: a Typed Prosopographical Network of Maximilian I’s Court*](https://doi.org/10.63744/eWebTidsVFzV).
+  *Anthology of Computers and the Humanities*, 3, 131–141.
+
+- Tambuscio, M. & Andrews, T. L. (2021).
+  [*Geolocation and Named Entity Recognition in Ancient Texts: A Case Study about Ghewond’s Armenian History*](https://ceur-ws.org/Vol-2989/short_paper28.pdf).
+  *Proceedings of CHR 2021*, 136–148.  
+
+### Selected projects
+
+- [Managing Maximilian](projects/managing-maximilian.qmd) — modelling prosopographical data and relationships at the court of Maximilian I.
+- [Unlocking the Schematismus](projects/schematismus.qmd) — investigating administrative and social structures in the Habsburg context.
+- [Tartinians in Europe](projects/tartinians.qmd) — reconstructing relationships in eighteenth-century European musical culture.
+
+-->
+
+[Explore my publications →](publications.qmd){.text-link}
+
+---
+
+## Computational Social Science
+
+My research in Computational Social Science investigates **the structure and dynamics of complex social systems**, particularly the relationship between network topology and collective behaviour.
+
+My work on online social networks explores information diffusion, misinformation, fact-checking, and polarization, combining empirical network analysis with computational and agent-based models. I also investigate **how collective memories emerge, evolve, and are expressed on social media**, including in the aftermath of the 2020 Vienna terrorist attack and during the COVID-19 pandemic.
+
+Other research has addressed social segregation, political communication, and structural inequalities in large-scale interaction networks.
+
+Across these topics, I am especially interested in how patterns of connectivity influence individual and collective dynamics, and how computational approaches can help explain the emergence of complex social phenomena.
+
+**Research topics:** Information Diffusion · Misinformation ·  Polarization ·  Collective Memory · Social Dynamics
+
+<!--
+
+### Selected Publications
+
+- Tambuscio, Oliveira, Ciampaglia & Ruffo (2018). *Network Segregation in a Model of Misinformation and Fact Checking.*
+
+- Tambuscio & Ruffo (2019). *Urban Legends Spreading in a Segregated Society.*
+
+- Lai, Tambuscio, Patti, Ruffo & Rosso (2019). *Stance Polarity in Political Debates: A Diachronic Perspective of Network Homophily and Conversations on Twitter.*
+
+- Semeraro, Tambuscio, Ronchiadin & Ruffo (2020). *Structural Inequalities Emerging from a Large Wire Transfers Network.*
+
+- Tambuscio & Tschiggerl (2023). *“#schleichdiduoaschloch” Terror, Collective Memory, and Social Media.*
+
+-->
+
+[Explore my publications →](publications.qmd){.text-link}
+:::
+

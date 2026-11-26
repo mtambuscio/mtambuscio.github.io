@@ -1,0 +1,29 @@
+---
+title: "Visualizations"
+subtitle: "Interactive networks and explorations"
+page-layout: full
+toc: false
+---
+
+::: {.page-intro}
+<div class="section-label">VISUALIZATIONS</div>
+
+# Exploring networks
+
+This section is reserved for interactive visualizations based on research datasets. The examples currently used elsewhere on this site are **abstract decorative illustrations**, not analytical results.
+:::
+
+::: {.site-section}
+
+## Planned interactive content
+
+- Historical communication networks from *Managing Maximilian*.
+- Person–person, person–institution and institution-level relations from *Schematismus*.
+- Connections in Tartini's musical networks.
+
+### Embedding a public Gephi Lite visualization
+
+Once a public, permitted visualization URL is available, an embed can be placed in the relevant project page. A template is included in `visualizations/EMBED-INSTRUCTIONS.md`.
+
+Before publishing, check that the data can be made public and that the visualization works on mobile and with keyboard navigation. Provide an accessible textual explanation and a static fallback image where appropriate.
+:::

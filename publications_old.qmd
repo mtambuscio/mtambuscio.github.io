@@ -1,0 +1,58 @@
+---
+title: "Publications"
+subtitle: "Peer-reviewed articles, proceedings and book chapters"
+page-layout: full
+toc: false
+---
+
+::: {.page-intro}
+<div class="section-label">PUBLICATIONS</div>
+
+# Selected and complete publication record
+
+Research articles, conference papers, and chapters across network science, computational social science, and digital humanities. The paper accepted in October 2026 is listed separately until final publication metadata are available.
+:::
+
+::: {.site-section .bibliography-page}
+
+## Accepted / in press
+
+**2026 —** Tambuscio, M., Sagadin, S., Hadden, R., & Vogeler, G. **From Prosopography to Networks: Modelling Choices in Historical Knowledge Graphs.** *Accepted October 2026; final bibliographic details pending.*
+
+## Peer-reviewed journals and conference proceedings
+
+**2025 —** Tambuscio, M., & Vogeler, G. **Bridging Semantics and Structure: a Typed Prosopographical Network of Maximilian I’s Court.** *Anthology of Computers and the Humanities*, 3, 131–141.
+
+**2023 —** Tambuscio, M., & Tschiggerl, M. **“#schleichdiduoaschloch” Terror, Collective Memory, and Social Media.** *Social Media + Society*, 9(3).
+
+**2021 —** Tambuscio, M., & Andrews, T. L. **Geolocation and Named Entity Recognition in Ancient Texts: A Case Study about Ghewond’s Armenian History.** *Proceedings of Computational Humanities Research (CHR 2021)*.
+
+**2020 —** Sulis, E., & Tambuscio, M. **Simulation of misinformation spreading processes in social networks: an application with NetLogo.** *2020 IEEE 7th International Conference on Data Science and Advanced Analytics (DSAA)*, 614–618.
+
+**2020 —** Semeraro, A., Tambuscio, M., Ronchiadin, S., & Ruffo, G. **Structural inequalities emerging from a large wire transfers network.** *Applied Network Science*, 5(1), 1–35.
+
+**2019 —** Tambuscio, M., & Ruffo, G. **Urban Legends Spreading in a Segregated Society.** *Applied Network Science*, 4(1), 116.
+
+**2019 —** Lai, M., Tambuscio, M., Patti, V., Ruffo, G., & Rosso, P. **Stance Polarity in Political Debates: a Diachronic Perspective of Network Homophily and Conversations on Twitter.** *Data & Knowledge Engineering*, 124, 101738.
+
+**2018 —** Tambuscio, M., Oliveira, D. F. M., Ciampaglia, G. L., & Ruffo, G. **Network segregation in a model of misinformation and fact checking.** *Journal of Computational Social Science*, 1, 261.
+
+**2017 —** Lai, M., Tambuscio, M., Patti, V., Ruffo, G., & Rosso, P. **Extracting Graph Topological Information and Users’ Opinion.** *CLEF 2017 proceedings*, Springer, p. 112.
+
+**2015 —** Tambuscio, M., Ruffo, G., Flammini, A., & Menczer, F. **Fact-checking effect on viral hoaxes: A model of misinformation spread in social networks.** *Proceedings of the 24th International Conference on World Wide Web (WWW ’15 Companion)*, 977–982.
+
+## Book chapters
+
+**2022 —** Ruffo, G. F., & Tambuscio, M. **Un approccio computazionale per capire le dinamiche della competizione tra bufale e verità.** In *Bufale, fake news, rumors e post-verità: discipline a confronto* (A. M. Orecchia & D. G. Preatoni, eds.). Mimesis.
+
+## Other publications and outreach
+
+**2026 —** Tambuscio, M., Hadden, R., Sagadin, S., & Vogeler, G. **Forging Power: The Importance of Social Connections.** In *L’Homme Armé: Bilder vom gerüsteten Mann zur Zeit Maximilian I / Images of Men in Armour at the Time of Maximilian I*. Bahoe Books, Vienna, 163–175.
+
+**2020 —** Ruffo, G. F., & Tambuscio, M. **Capire la diffusione della disinformazione e come contrastarla.** *Federalismi.it*, 11, 73–84.
+
+## Researcher identifiers
+
+[ORCID 0000-0003-2097-1333](https://orcid.org/0000-0003-2097-1333){.text-link}
+
+:::
