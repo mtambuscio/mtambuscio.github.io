@@ -243,3 +243,22 @@ h1.hero-name {font-size:clamp(2.6rem,4.4vw,4.05rem);line-height:1.2;margin:0 0 1
     padding-bottom: 28px;
   }
 }
+
+
+/* Research - illustration size fix */
+
+.page-intro img.research-illustration {
+  display: block;
+  width: 100% !important;
+  max-width: 350px !important;
+  height: auto !important;
+  object-fit: contain;
+  border-radius: 14px;
+  margin: 0 auto;
+}
+
+@media (max-width: 980px) {
+  .page-intro img.research-illustration {
+    max-width: 290px !important;
+  }
+}
